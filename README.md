@@ -28,6 +28,22 @@ WeatherCheck is a **modern and stylish weather application** built using **HTML,
 ## 🔧 **Installation & Setup**
 ### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/your-username/weathercheck.git
+git clone https://github.com/iamaamna12/weathercheck.git
 cd weathercheck
+```
+### 2️⃣ Open `index.html` in a browser  
+Simply open the file in any modern browser.
+
+### 3️⃣ Or Start a Local Server (Optional)
+```sh
+npx live-server
+```
+### 📌 Upcoming Features
+🔹 5-day weather forecast
+🔹 Dark mode support
+🔹 Support for multiple languages
+
+### 👩‍💻 Author
+Made with ❤️ by Aamna Shahab
+
 
