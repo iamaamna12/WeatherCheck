@@ -28,8 +28,8 @@ WeatherCheck is a **modern and stylish weather application** built using **HTML,
 ## 🔧 **Installation & Setup**
 ### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/iamaamna12/weathercheck.git
-cd weathercheck
+git clone https://github.com/iamaamna12/WeatherCheck.git
+cd WeatherCheck
 ```
 ### 2️⃣ Open `index.html` in a browser  
 Simply open the file in any modern browser.
