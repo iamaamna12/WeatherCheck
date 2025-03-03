@@ -4,6 +4,9 @@
 
 WeatherCheck is a **modern and stylish weather application** built using **HTML, CSS, JavaScript, GSAP animations, and OpenWeather API**. It allows users to check the weather of any city, featuring **animated backgrounds**, a sleek **frosted-glass UI**, and smooth transitions.
 
+# 🌍 **Check it out in action here**  
+<a href="https://weathercheckbyaamna.netlify.app/" target="_blank">🔗 WeatherCheck by Aamna</a>
+
 ---
 
 ## 🎯 **Features**
