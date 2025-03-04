@@ -1,4 +1,4 @@
-const apiKey = CONFIG.WEATHER_API_KEY;
+const apiKey = import.meta.env.VITE_WEATHER_API_KEY;
 const searchBtn = document.getElementById("searchBtn");
 const cityInput = document.getElementById("cityInput");
 const body = document.body;
